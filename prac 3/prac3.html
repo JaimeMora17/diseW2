@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stilo.css">
+  
+    <title>prac3</title>
+</head>
+<body>
+    <!-- el ejercicio  1  impar o par -->
+    <!-- 
+    
+    <div class="contenedor">
+        
+        <form action="">
+            <h3> impar o par </h3>
+            <input id="numero1" type="text">
+            <p>+</p>
+            <input id="numero2" type="text">
+            <p>=</p>
+            <input id="resultado" type="text" readonly>
+            <input id="par o impar" type="text"><br><br>
+            <input type="button" class="btn" onclick="sumar()" value="Resultado">
+        </form>
+
+    </div>
+            <script>
+                function sumar(numero1,numero2)
+                {
+                    var num1=parseFloat(document.getElementById('numero1').value);
+                    var num2=parseFloat(document.getElementById('numero2').value);
+        var par = ("par");
+        var impar = ("impar");
+        var res1=num1+num2;
+                    document.getElementById('resultado').value=res1;
+                    if(res1%2==0){
+                        document.getElementById("par o impar").value = par;
+                    }
+                    else{
+                        document.getElementById("par o impar").value = impar;
+                    }
+                }
+        </script>     
+
+    -->
+
+<!-- el ejercicio   2 nuemro del medio 
+        <div class="contenedor">
+            <form action="">
+                <h2>numero del medio </h2>
+                <input id="numero1" type="text">
+                <p>+</p>
+                <input id="numero2" type="text">
+                <p>+</p>
+                <input id="numero3" type="text" >
+                <input id="res1" type="text"><br><br>
+                <input type="button" class="btn" onclick=" centro()" value="numero del medio">
+            </form>
+    
+        </div>
+        <script>
+            
+        function centro(numero1,numero2,numero3)
+        {
+            var num1=parseFloat(document.getElementById('numero1').value);
+            var num2=parseFloat(document.getElementById('numero2').value);
+            var num3=parseFloat(document.getElementById('numero3').value);
+            var res1=(num2);
+            var error=("los n tiene que ser distintos");
+         
+            if (num1!=num2)
+            {
+                document.getElementById("res1").value=res1;
+            }
+            if(num3!=num2){
+                document.getElementById("res1").value=res1;
+
+            }else{
+                document.getElementById("res1").value=error;
+            }
+        }
+        </script>  
+    -->
+
+
+    <div class="contenedor">
+
+        <form action="">
+            <h2>factorial</h2>
+
+            <input id="numero1" type="text">
+            <p>=</p>
+            <input id="resultado" type="text" readonly>
+            <input type="button" class="btn" onclick="factorial()" value="Resultado">
+        </form>
+    </div>
+    <script>
+        function factorial(numero1)
+        {
+            var num1=parseFloat(document.getElementById('numero1').value);
+            var total=1
+            for (var i=num1; i>0; i--)
+            {
+                total*=i;   
+            }
+            document.getElementById('resultado').value=total;
+        }    
+    </script>
+     
+
+ 
+<!-- 
+
+<div class="contenedor">
+
+    <form action="">
+        <h2>Numerps Primos </h2>
+
+        <input id="numero1" type="text">
+        <p>=</p>
+        <input id="resultado" type="text" readonly>
+        <input type="button" class="btn" onclick="primo()" value="Resultado">
+    </form>
+
+</div>
+<script>
+    function primo(numero1)
+    {
+        var num1=parseFloat(document.getElementById('numero1').value);
+        
+        for(var i=2; i<num1;i++){
+            
+                if(num1 % i == 0){
+                    document.getElementById('resultado').value=i;
+                    return false
+                }
+            
+        }  
+    }
+</script>
+-->
+</body> 
+</html>
