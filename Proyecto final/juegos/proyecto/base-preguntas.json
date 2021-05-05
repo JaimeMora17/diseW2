@@ -1,0 +1,144 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://s03.s3c.es/imag/_v0/635x324/9/5/5/preguntados.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí\r",
+        "imagen": "https://s03.s3c.es/imag/_v0/635x324/9/5/5/preguntados.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "significado de  \"El jardín de las delicias\"",
+        "respuesta": "Mundo Terrenal",
+        "incorrecta1": "Es Mejor Morir",
+        "incorrecta2": "Dios Es El Camino",
+        "incorrecta3": "Adán Y Eva\r",
+        "imagen": "https://s03.s3c.es/imag/_v0/635x324/9/5/5/preguntados.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Ciudad fetiche del escritor Paul Auster",
+        "respuesta": "Nueva York",
+        "incorrecta1": "París",
+        "incorrecta2": "Ámsterdam",
+        "incorrecta3": "Bogotá\r",
+        "imagen": "https://s03.s3c.es/imag/_v0/635x324/9/5/5/preguntados.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor de \"El viejo y el mar\"",
+        "respuesta": "Ernest Hemingway",
+        "incorrecta1": "Julio Verne",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Ernesto Sábato\r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    },
+   
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuántos capítulos tiene la serie de televisión 'Friends?",
+        "respuesta": "236",
+        "incorrecta1": "133",
+        "incorrecta2": "310",
+        "incorrecta3": "94 \r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el primer hijo de Goku de Dragon Ball?",
+        "respuesta": "Gohan",
+        "incorrecta1": "Goten ",
+        "incorrecta2": "Trunks",
+        "incorrecta3": "Vegetta\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿De dónde proviene el reggae?",
+        "respuesta": "Jamaica",
+        "incorrecta1": "Cuba ",
+        "incorrecta2": "Haití ",
+        "incorrecta3": "República Dominicana\r"
+    },
+   
+    
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Dónde nació John Lennon?",
+        "respuesta": "Liverpool",
+        "incorrecta1": "Dublin",
+        "incorrecta2": "Londres",
+        "incorrecta3": "Hamburgo\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál es la última película por la que el director Terrence Malick ganó la Palma de Oro en el Festival de Cannes?",
+        "respuesta": "El Árbol De La Vida",
+        "incorrecta1": "Días De Cielo",
+        "incorrecta2": "La Delgada Linea Roja",
+        "incorrecta3": "Malas Tierras\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál de estas películas ganó el Óscar a la mejor película?",
+        "respuesta": "Patton",
+        "incorrecta1": "Apocalypse Now",
+        "incorrecta2": "La Delgada Línea Roja",
+        "incorrecta3": "Salvar Al Soldado Ryan\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuántos años tenía Mozart al morir?",
+        "respuesta": "35",
+        "incorrecta1": "45",
+        "incorrecta2": "96",
+        "incorrecta3": "54\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿En cuál de estos juegos el terreno tiene hongos, flores, bombas de DDT, y como enemigos y arañas, mariquitas y otros insectos?",
+        "respuesta": "Millipede",
+        "incorrecta1": "Centipede",
+        "incorrecta2": "Burgertime",
+        "incorrecta3": "Paperboy\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el ayudante de Iron Man?",
+        "respuesta": "Jarvis",
+        "incorrecta1": "Tony",
+        "incorrecta2": "Jef",
+        "incorrecta3": "Alex\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Quién es Alan en \"Dos Hombres y Medio?",
+        "respuesta": "El Hermano De Charlie",
+        "incorrecta1": "El Amigo Parásito De Charlie",
+        "incorrecta2": "El Primo De Charlie",
+        "incorrecta3": "El Sobrino De Charlie\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuántas categorías tiene este juego?",
+        "respuesta": "6",
+        "incorrecta1": "4",
+        "incorrecta2": "5",
+        "incorrecta3": "10\r"
+    }
+   
+    
+
+]
